@@ -1,7 +1,7 @@
 # Setup
 title:               Pyrenaicus
 tagline:             ''
-description:         'Just a personal notebook on the things I'm learning'
+description:         "Just a personal notebook on the things I'm learning"
 url:                 https://pyrenaicus.github.io
 baseurl:             ''
 paginate:            5
